@@ -12,20 +12,5 @@ Here is a preview of our Mobile-view for our amazing platform!
 
 
 ### Our Team -
-- Akshad Kolhatkar
-- Saakshi S.
-- Harshal Garg
-- Aanchal Saxena
-- Ajay Bhargav
-- Gaurav Prasad
-
-### Our Final Deployments -
-
-Website -
-https://team-infinity-web.netlify.app/
-
-WebApp-
-https://infinity-web-app-scrappy.netlify.app/
-
-Repo link for WebApp-
-https://github.com/AkshadK7/Team-Infinity-Web-App
+- Khushi Deshwal
+- Aryan
