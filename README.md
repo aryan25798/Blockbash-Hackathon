@@ -1,4 +1,4 @@
-## Team Infinity's Official Hackathon Project
+## Official Hackathon Project
 
 
 ### Sustaining Lives🌲 Through Technology 💻
