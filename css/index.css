@@ -1,5 +1,5 @@
 .jj {
-    border: 1px solid #1f2020;
+    border: 2px solid #1f2020;
     /* border-radius: 100% 5% 100% 0% / 17% 30% 70% 83%; */
     height: 307 px;
     border-radius: 4px;
@@ -17,9 +17,9 @@
 } */
 
 .aa {
-    color:#961b1b!important;
+    color:blue!important;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 30px;
     font-family: 'Kufam', cursive;
 }
 
