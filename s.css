@@ -1,11 +1,10 @@
-.btn{
+.btn a{
     padding: 10px 20px;
-    color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
   } 
-  .btn:hover{
+  .card-body a:hover{
     background-color: green;
   }
   
