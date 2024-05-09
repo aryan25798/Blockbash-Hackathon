@@ -113,3 +113,7 @@
 .bg-dark {
     background-color: #03396c!important;
 }
+.btn-danger:hover {
+    background-color:#343a40!important;
+
+}

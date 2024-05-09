@@ -456,3 +456,7 @@ footer ul li a:hover {
   box-shadow: 0 0.2em 2em rgb(11, 80, 94);
   border: 2px solid #03396c;
 }
+.btn-danger:hover {
+  background-color:#343a40!important;
+
+}
