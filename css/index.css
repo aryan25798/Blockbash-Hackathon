@@ -1,57 +1,59 @@
-.jj {
-    border: 2px solid #1f2020;
-    /* border-radius: 100% 5% 100% 0% / 17% 30% 70% 83%; */
-    height: 307 px;
-    border-radius: 4px;
+/* Custom styles for improved visual appeal */
+
+/* Update the color scheme */
+.bg-dark {
+    background-color: #343a40 !important; /* Darker shade of gray */
 }
 
+.navbar-dark .navbar-brand {
+    color: #fff; /* White color for navbar brand */
+}
 
-/* .yy {
-    box-shadow: 0 0.2em 2em rgb(130, 135, 136);
-} */
-/* 
-.yy :hover {
-    margin: 3px;
-    border-radius: 873% 12% 283% 111% /80% 220% 141% 300%;
-    transition: 2s;
-} */
-
-.aa {
-    color:blue!important;
-    font-weight: bold;
-    font-size: 30px;
-    font-family: 'Kufam', cursive;
+.nav-link,
+.navbar-toggler-icon {
+    color: #fff; /* White color for navbar links and toggler */
 }
 
 .card-footer {
-    background-color: #2c2c2e;
-    border-top: 1px solid rgb(32, 31, 31);
-    opacity: 0.8;
+    background-color: #212529; /* Dark background for card footer */
 }
 
-.text-muted {
-    color: white!important;
+.card-footer p {
+    color: #fff; /* White color for text in card footer */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Primary button color */
+    border-color: #007bff; /* Primary button border color */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+/* Update typography */
+body {
+    font-family: 'Roboto', sans-serif; /* Use Roboto font for better readability */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif; /* Use Montserrat for headings */
+    font-weight: bold; /* Bold headings */
+}
+
+/* Additional styles */
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for carousel captions */
+    padding: 10px; /* Add padding to captions */
+    border-radius: 5px; /* Rounded corners for captions */
+}
+
+.carousel-caption h5 {
+    color: #fff; /* White color for carousel caption headings */
+}
+
+.carousel-caption p {
+    color: #f8f9fa; /* Lighter color for carousel caption text */
 }
 
 
-/* for navbar and below card footer */
-
-.bg-dark {
-    background-color: #03396c!important;
-    /* opacity: 0.9; */
-}
-
-.btn {
-    border-radius: 300px;
-    width: 120px;
-}
-
-
-
-.ft {
-    color: black;
-   background-color: azure;
-   font-family: 'Times New Roman', Times, serif
-   border-radius: 10px;
-   padding: 5px;
-}
