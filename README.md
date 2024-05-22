@@ -8,7 +8,7 @@ We have created a digital-platform which helps people connect with the scrap wor
 
 Here is a preview of our Mobile-view for our amazing platform!
 
-<img src="imgs/1.jpeg" height="300px">             <img src="imgs/4.jpeg" height="300px">          
+          
 
 
 ### Our Team -
